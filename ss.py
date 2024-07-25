@@ -13,8 +13,6 @@ from sklearn.metrics import accuracy_score
 from imblearn.combine import SMOTEENN
 import random
 
-
-
 # Load dataset
 # @st.cache_data
 def load_data():
